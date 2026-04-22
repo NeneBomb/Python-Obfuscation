@@ -3,7 +3,7 @@
 Prueba de concepto de un script automutante diseñado para evadir detecciones basadas en firmas estáticas y análisis en entornos controlados (Sandboxes).
 
 > [!WARNING]
-> **ESTADO DEL PROYECTO:** 🛠️ En desarrollo activo. Las funcionalidades actuales son demostrativas.
+> **ESTADO DEL PROYECTO:** ️ En desarrollo activo. Las funcionalidades actuales son demostrativas.
 
 ## Características
 - **Auto-Mutación:** Modifica su propio código fuente en cada ejecución para generar un hash SHA-256 único sin alterar su funcionalidad.
